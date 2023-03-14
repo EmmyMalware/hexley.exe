@@ -1,0 +1,9 @@
+C:\Users\April\source\repos\hexley\hexley\bin\Debug\hexley.exe
+C:\Users\April\source\repos\hexley\hexley\bin\Debug\hexley.pdb
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.Form1.resources
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.Properties.Resources.resources
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.csproj.GenerateResource.cache
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.exe
+C:\Users\April\source\repos\hexley\hexley\obj\Debug\hexley.pdb
